@@ -5,7 +5,7 @@ import {
 
 const routes = [{
     path: "/",
-    name: "index",
+    name: "/",
     component: () =>
         import ("@/components/HelloWorld.vue")
 }]

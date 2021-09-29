@@ -8,7 +8,7 @@ const path = require('path');
 const resolve = dir => path.join(__dirname, dir)
 module.exports = {
     // 基本路径
-    publicPath: process.env.NODE_ENV === 'development' ? '/' : '/',
+    publicPath: process.env.NODE_ENV === 'development' ? '/ations/' : '/',
     assetsDir: 'static',
     // 输出文件路径
     outputDir: 'dist',

@@ -2,6 +2,7 @@
     "name": "vue4",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https//https://qizhexiaozhuchuangtianxia.github.io/ations",
     "scripts": {
         "serve": "vue-cli-service serve --mode dev",
         "build": "vue-cli-service build --mode dev",

@@ -11,6 +11,7 @@ export default {
     msg: String,
   },
   mounted(){
+console.log(`${process.env.NODE_ENV}`);
 
   }
 };
